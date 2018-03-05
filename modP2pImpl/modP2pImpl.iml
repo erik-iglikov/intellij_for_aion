@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="modP2p" />
+    <orderEntry type="library" name="libminiupnp" level="project" />
   </component>
 </module>

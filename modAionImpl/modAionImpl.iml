@@ -20,11 +20,14 @@
     <orderEntry type="module" module-name="modTxPool" />
     <orderEntry type="module" module-name="modP2p" />
     <orderEntry type="module" module-name="modRlp" />
-    <orderEntry type="module" module-name="aion_fastvm" />
     <orderEntry type="module" module-name="modAion" />
     <orderEntry type="library" name="commons" level="project" />
     <orderEntry type="library" name="libJson" level="project" />
     <orderEntry type="library" name="guava" level="project" />
     <orderEntry type="module" module-name="modP2pImpl" />
+    <orderEntry type="library" name="truth" level="project" />
+    <orderEntry type="module" module-name="modApiServer" />
+    <orderEntry type="library" scope="TEST" name="junit" level="project" />
+    <orderEntry type="module" module-name="modFastVM" />
   </component>
 </module>

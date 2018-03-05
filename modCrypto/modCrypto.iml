@@ -23,5 +23,8 @@
     <orderEntry type="library" name="libnsc" level="project" />
     <orderEntry type="library" name="slf4j-api" level="project" />
     <orderEntry type="library" scope="TEST" name="junit" level="project" />
+    <orderEntry type="library" scope="TEST" name="hamcrest" level="project" />
+    <orderEntry type="library" name="logback" level="project" />
+    <orderEntry type="module" module-name="modLogger" />
   </component>
 </module>
