@@ -6,8 +6,9 @@ To get started first clone the Aion project. Make sure to add the `--recursive` 
 
 Next, clone this project into a separate folder.
 
-Then run the command:
+Then run the commands:
 ```
+rm -fr intellij_for_aion/.git intellij_for_aion/README.md
 rsync -rv intellij_for_aion/ aion/
 ```
 where `aion` contains the code base and `intellij_for_aion` contains the IDE support files.
