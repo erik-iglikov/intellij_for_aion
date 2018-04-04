@@ -22,11 +22,10 @@
     <orderEntry type="module" module-name="modLogger" />
     <orderEntry type="module" module-name="modMcf" />
     <orderEntry type="module" module-name="modP2p" />
-    <orderEntry type="module" module-name="modCrypto" />
     <orderEntry type="module" module-name="modEvtMgr" />
     <orderEntry type="module" module-name="modEvtMgrImpl" />
-    <orderEntry type="library" name="modFastVM" level="project" />
     <orderEntry type="module" module-name="modAionApi" />
-    <orderEntry type="module" module-name="modFastVM" />
+    <orderEntry type="library" name="modFastVM" level="project" />
+    <orderEntry type="library" name="modCrypto" level="project" />
   </component>
 </module>

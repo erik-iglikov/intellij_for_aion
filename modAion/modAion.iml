@@ -11,11 +11,11 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="modAionBase" />
     <orderEntry type="module" module-name="modRlp" />
-    <orderEntry type="module" module-name="modCrypto" />
     <orderEntry type="module" module-name="modMcf" />
     <orderEntry type="library" name="slf4j-api" level="project" />
     <orderEntry type="library" name="libJson" level="project" />
     <orderEntry type="library" scope="TEST" name="junit" level="project" />
     <orderEntry type="library" name="commons" level="project" />
+    <orderEntry type="library" name="modCrypto" level="project" />
   </component>
 </module>

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/DBVendor.java" line="45" mnemonic="8" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8597adac-e587-4f2a-9150-905a844117ae" name="Default" comment="" />
+    <list default="true" id="8597adac-e587-4f2a-9150-905a844117ae" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/aion_api/build.xml" afterPath="$PROJECT_DIR$/aion_api/build.xml" />
+      <change beforePath="$PROJECT_DIR$/aion_api/test/org/aion/api/test/SimpleBench.java" afterPath="$PROJECT_DIR$/aion_api/test/org/aion/api/test/SimpleBench.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/modAionBase/bin/" />
     <ignored path="$PROJECT_DIR$/modCrypto/build/" />
     <ignored path="$PROJECT_DIR$/modDbImpl/bin/" />
@@ -25,89 +31,175 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="build.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modApiServer/build.xml">
+      <file leaf-file-name="DatabaseFactoryTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/DatabaseFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="1254">
+              <caret line="130" column="74" lean-forward="false" selection-start-line="130" selection-start-column="74" selection-end-line="130" selection-end-column="74" />
+              <folding>
+                <marker date="1522865782801" expanded="true" signature="14892:15613" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/DatabaseFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1534">
+              <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+              <folding>
+                <element signature="e#9551#9552#0" expanded="true" />
+                <element signature="e#9593#9594#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Aion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modBoot/src/org/aion/Aion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-540">
+              <caret line="52" column="13" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+              <folding>
+                <marker date="1522864365699" expanded="true" signature="2142:7109" ph="{...}" />
+                <marker date="1522864365699" expanded="true" signature="4481:4534" ph="{...}" />
+                <marker date="1522864365699" expanded="true" signature="5186:5625" ph="{...}" />
+                <marker date="1522864365699" expanded="true" signature="5461:5615" ph="{...}" />
+                <marker date="1522864365699" expanded="true" signature="5799:7088" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AionBlockStore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionBlockStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="689" column="21" lean-forward="false" selection-start-line="689" selection-start-column="21" selection-end-line="689" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="module-info.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modApiServer/module-info.java">
+      <file leaf-file-name="RecoveryUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/RecoveryUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="316">
+              <caret line="123" column="5" lean-forward="false" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AionHub.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionHub.java">
+      <file leaf-file-name="CfgNetP2p.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/config/CfgNetP2p.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+            <state relative-caret-position="316">
+              <caret line="63" column="16" lean-forward="false" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aion_fastvm.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aion_fastvm/java/aion_fastvm.iml">
+      <file leaf-file-name="CfgNet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/config/CfgNet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="1049">
+              <caret line="84" column="37" lean-forward="false" selection-start-line="84" selection-start-column="37" selection-end-line="84" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aion_api/build.xml">
+      <file leaf-file-name="Cli.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/cli/Cli.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="614">
+              <caret line="135" column="39" lean-forward="false" selection-start-line="135" selection-start-column="39" selection-end-line="135" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApiCfg.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aion_api/src/org/aion/api/cfg/ApiCfg.java">
+      <file leaf-file-name="DatabaseWithCache.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/generic/DatabaseWithCache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AionTransactionTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modAion/test/org/aion/types/AionTransactionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
-              <folding />
+            <state relative-caret-position="20">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1522855834744" expanded="true" signature="14910:14917" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Alexandra</find>
-      <find>A0BlockHeader</find>
-      <find>alexandra</find>
-      <find>recover</find>
-      <find>stats</find>
-      <find>flush</find>
+      <find>.cummDifficulty</find>
+      <find>index.get(level)</find>
+      <find>index.set(level, infos)</find>
+      <find>(Properties dbDef)</find>
+      <find>loadAccount</find>
+      <find>loadAccountState</find>
+      <find>iscreatedon</find>
+      <find>islocked</find>
+      <find>lock.writeLock().unlock()</find>
+      <find>unlock()</find>
+      <find>if (blockInfos == null)</find>
+      <find>getTotalDifficultyForHash</find>
+      <find>@implNote</find>
+      <find>private</find>
+      <find>fixme</find>
+      <find>this.repository.loadAccountState(address, this.cachedAccounts, this.cachedDetails);</find>
+      <find>repository.loadAccountState(address, this.cachedAccounts, this.cachedDetails);</find>
+      <find>sync</find>
+      <find>return</find>
+      <find>sync-gb</find>
+      <find>add(</find>
+      <find>trytoconnect(</find>
+      <find>synchronized</find>
+      <find>lockDetails.writeLock().unlock();</find>
+      <find>lockAccounts</find>
+      <find>lockDetails</find>
+      <find>sync-ib</find>
+      <find>boot</find>
+      <find>transactions trie</find>
+      <find>List&lt;BlockInfo&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>IBlockHeader</replace>
+      <replace>cfg.getDb()</replace>
+      <replace>info</replace>
+      <replace>assertThat(testIndex.get(value)).isNotNull(); assertThat(testIndex.get(value).size()).isEqualTo(1);</replace>
+      <replace>index</replace>
+      <replace>block_frequency</replace>
+      <replace>getBlockByNumber(</replace>
+      <replace>getBlockByHash(</replace>
+      <replace>getListOfHashesStartFrom(</replace>
+      <replace>getTotalDifficultyByHash(</replace>
+      <replace>isBlockPresent(</replace>
+      <replace>DatabaseFactory.PROP_DB_TYPE</replace>
+      <replace>DatabaseFactory.PROP_DB_NAME</replace>
+      <replace>getCummDifficulty()</replace>
+      <replace>getHash()</replace>
+      <replace>isMainChain()</replace>
+      <replace>.getCummDifficulty()</replace>
+      <replace>getBlockInfoForLevel(level)</replace>
+      <replace>()</replace>
+      <replace>loadAccountState(Address address);</replace>
+      <replace>fullyLock();</replace>
+      <replace>fullyUnlock();</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -126,50 +218,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/dbmgr/common/AccessWithExceptionTest.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/dbmgr/common/DatabaseFactoryTest.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/dbmgr/common/ConcurrencyTest.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/dbmgr/common/DatabaseTestUtils.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/dbmgr/driver/base/DriverBenchmarkTest.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/dbmgr/driver/base/DriverBaseTest.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/dbmgr/driver/h2mvmap/H2MVMapDriverTest.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/dbmgr/driver/mockdb/MockDBDriverTest.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/dbmgr/driver/leveldb/LevelDBDriverTest.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/factory/IDriver.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/factory/DBVendor.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/IDriver.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/DBVendor.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/factory/DatabaseFactory.java" />
         <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/ConcurrencyTest.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/AccessWithExceptionTest.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/DriverBaseTest.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/DriverBenchmarkTest.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/utils/repeat/Repeat.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/utils/repeat/RepeatRule.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/utils/slices/BasicSliceOutput.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/utils/slices/SizeOf.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/utils/slices/Slice.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/utils/slices/SliceComparator.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/utils/slices/SliceInput.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/utils/slices/SliceOutput.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/utils/slices/Slices.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/utils/slices/VariableLengthQuantity.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/utils/FileUtils.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/config/CfgDb.java" />
+        <option value="$PROJECT_DIR$/modAionImpl/test/org/aion/db/BlockstoreConcurrencyTest.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/DatabaseTestUtils.java" />
+        <option value="$PROJECT_DIR$/modAionImpl/test/org/aion/zero/impl/db/BlockInfoTest.java" />
+        <option value="$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/TransactionStoreConcurrencyTest.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/utils/DatabaseTestUtils.java" />
         <option value="$PROJECT_DIR$/modDbImpl/module-info.java" />
-        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/leveldb/LevelDB.java" />
-        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/valid/BlockNumberRule.java" />
-        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/valid/DependentBlockHeaderRule.java" />
-        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/blockchain/valid/IBlockHeaderValidRule.java" />
-        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/valid/ParentBlockHeaderValidator.java" />
-        <option value="$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/valid/TimeStampRule.java" />
-        <option value="$PROJECT_DIR$/modMcf/test/org/aion/valid/TimeStampRuleTest.java" />
-        <option value="$PROJECT_DIR$/modMcf/test/org/aion/valid/BlockNumberRuleTest.java" />
-        <option value="$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/RecoveryUtils.java" />
-        <option value="$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionBlockchainImpl.java" />
-        <option value="$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionHub.java" />
-        <option value="$PROJECT_DIR$/modAionImpl/test/org/aion/zero/impl/BlockchainPruningTest.java" />
-        <option value="$PROJECT_DIR$/modAionImpl/test/org/aion/zero/impl/BlockchainDataRecoveryTest.java" />
-        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/db/AbstractRepository.java" />
-        <option value="$PROJECT_DIR$/modAionBase/src/org/aion/base/db/IRepository.java" />
-        <option value="$PROJECT_DIR$/modAion/src/org/aion/zero/db/AionRepositoryCache.java" />
-        <option value="$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionBlockStore.java" />
+        <option value="$PROJECT_DIR$/modAionImpl/module-info.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/DriverBaseTest.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/db/TransactionStore.java" />
+        <option value="$PROJECT_DIR$/modAionImpl/test/org/aion/db/TransactionStoreConcurrencyTest.java" />
+        <option value="$PROJECT_DIR$/aion_fastvm/modFastVM/test/org/aion/vm/precompiled/TotalCurrencyContractTest.java" />
         <option value="$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionRepositoryImpl.java" />
-        <option value="$PROJECT_DIR$/modAion/test/org/aion/types/AionTransactionTest.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/Cache.java" />
+        <option value="$PROJECT_DIR$/modAion/src/org/aion/zero/db/AionRepositoryCache.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/db/AbstractRepositoryCache.java" />
+        <option value="$PROJECT_DIR$/aion_api/test/org/aion/api/test/SimpleBench.java" />
+        <option value="$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/sync/TaskImportBlocks.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/ExtractDiffToDatabase.java" />
+        <option value="$PROJECT_DIR$/modAionBase/src/org/aion/base/db/IByteArrayKeyValueDatabase.java" />
+        <option value="$PROJECT_DIR$/modAionImpl/test/org/aion/db/BlockStoreConcurrencyTest.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/ExtractToDatabase.java" />
+        <option value="$PROJECT_DIR$/modMcf/test/org/aion/trie/TrieConcurrencyTest.java" />
+        <option value="$PROJECT_DIR$/modAionBase/src/org/aion/base/db/IByteArrayKeyValueStore.java" />
+        <option value="$PROJECT_DIR$/modAionBase/src/org/aion/base/db/IKeyValueStore.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/AbstractDB.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/ds/XorDataSource.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/JournalPruneDataSource.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/mockdb/MockDB.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/h2/H2MVMap.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/generic/DatabaseWithCache.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/Trie.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/ExtractAllKeys.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/ExtractDiffKeys.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/leveldb/LevelDB.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/ds/ObjectDataSource.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/TrieImpl.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/generic/LockedDatabase.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/generic/SpecialLockedDatabase.java" />
+        <option value="$PROJECT_DIR$/modMcf/src/org/aion/mcf/db/AbstractRepository.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/DatabaseFactoryTest.java" />
+        <option value="$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/DatabaseFactory.java" />
+        <option value="$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionBlockStore.java" />
+        <option value="$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/RecoveryUtils.java" />
+        <option value="$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/cli/Cli.java" />
       </list>
     </option>
   </component>
@@ -178,6 +277,12 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="91" />
@@ -200,39 +305,104 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="dev_aion" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aion_api" type="462c0819:PsiDirectoryNode" />
+              <item name="modBoot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev_aion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev_aion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev_aion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev_aion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev_aion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev_aion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modDbImpl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev_aion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modDbImpl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev_aion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modDbImpl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev_aion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modDbImpl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev_aion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modDbImpl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aion_api/lib/gson-2.7.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/rocksdbjni-5.11.3.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="VisualVMLauncher" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.aion.zero.impl" />
+      <recent name="org.aion.db.impl.mockdb" />
+      <recent name="org.aion.db.utils" />
       <recent name="org.aion.db.impl" />
+      <recent name="org.aion.db.factory" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.aion.zero.impl" />
+      <recent name="org.aion.mcf.trie" />
+      <recent name="org.aion.zero.impl.db" />
+      <recent name="org.aion.db.impl" />
+      <recent name="org.aion.db.generic" />
+      <recent name="org.aion.utils" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -254,7 +424,7 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Aion" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Aion -archive" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="org.aion.*" />
@@ -262,9 +432,142 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="org.aion.Aion" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="-archive" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="modBoot" />
+      <envs />
+    </configuration>
+    <configuration name="Aion -c" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.aion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.aion.Aion" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="-c" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="modBoot" />
+      <envs />
+    </configuration>
+    <configuration name="Aion -d" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.aion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.aion.Aion" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="-d" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="modBoot" />
+      <envs />
+    </configuration>
+    <configuration name="Aion -p" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.aion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.aion.Aion" />
+      <option name="VM_PARAMETERS" value="-Xms2g" />
+      <option name="PROGRAM_PARAMETERS" value="-p 5600" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="modBoot" />
+      <envs />
+    </configuration>
+    <configuration name="Aion -r val" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.aion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.aion.Aion" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="-r 2005" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="modBoot" />
+      <envs />
+    </configuration>
+    <configuration name="Aion -r" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.aion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.aion.Aion" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="-r" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="modBoot" />
+      <envs />
+    </configuration>
+    <configuration name="Aion-jmc" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.aion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.aion.Aion" />
+      <option name="VM_PARAMETERS" value="-Dcom.sun.management.jmxremote=true  -Dcom.sun.management.jmxremote.port=3614  -Dcom.sun.management.jmxremote.authenticate=false  -Dcom.sun.management.jmxremote.ssl=false" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="modBoot" />
+      <envs />
+    </configuration>
+    <configuration name="Aion" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.aion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.aion.Aion" />
+      <option name="VM_PARAMETERS" value="-Xms2g" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -287,38 +590,38 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="All in modAionImpl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All Tests" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="modAionImpl" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
+        <value defaultName="wholeProject" />
       </option>
       <envs />
       <patterns />
     </configuration>
-    <configuration name="BlockchainDataRecoveryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BlockInfoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.aion.zero.impl.*" />
+          <option name="PATTERN" value="org.aion.db.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="modAionImpl" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.aion.zero.impl" />
-      <option name="MAIN_CLASS_NAME" value="org.aion.zero.impl.BlockchainDataRecoveryTest" />
+      <option name="PACKAGE_NAME" value="org.aion.zero.impl.db" />
+      <option name="MAIN_CLASS_NAME" value="org.aion.zero.impl.db.BlockInfoTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -332,20 +635,20 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="BlockchainDataRecoveryTest.testRecoverWorldStateWithRevert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BlockStoreConcurrencyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.aion.zero.impl.*" />
+          <option name="PATTERN" value="org.aion.db.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="modAionImpl" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.aion.zero.impl" />
-      <option name="MAIN_CLASS_NAME" value="org.aion.zero.impl.BlockchainDataRecoveryTest" />
-      <option name="METHOD_NAME" value="testRecoverWorldStateWithRevert" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="org.aion.db" />
+      <option name="MAIN_CLASS_NAME" value="org.aion.db.BlockStoreConcurrencyTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -357,20 +660,85 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="BlockchainPruningTest.testPruningAfterFork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DB Tests" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="modDbImpl" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="DriverBaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.aion.zero.impl.*" />
+          <option name="PATTERN" value="org.aion.db.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="modAionImpl" />
+      <module name="modDbImpl" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.aion.zero.impl" />
-      <option name="MAIN_CLASS_NAME" value="org.aion.zero.impl.BlockchainPruningTest" />
-      <option name="METHOD_NAME" value="testPruningAfterFork" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="org.aion.db.impl" />
+      <option name="MAIN_CLASS_NAME" value="org.aion.db.impl.DriverBaseTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Mcf Tests" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="modMcf" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TrieTestWithRootHashValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.aion.trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="modMcf" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.aion.trie" />
+      <option name="MAIN_CLASS_NAME" value="org.aion.trie.TrieTestWithRootHashValues" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -402,17 +770,17 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="org.aion.zero.impl.valid in modAionImpl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="org.aion.db in modDbImpl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.aion.zero.impl.valid.*" />
+          <option name="PATTERN" value="org.aion.db.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="modAionImpl" />
+      <module name="modDbImpl" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.aion.zero.impl.valid" />
+      <option name="PACKAGE_NAME" value="org.aion.db" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
@@ -467,21 +835,31 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Application.Aion" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.All in modAionImpl" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.BlockchainDataRecoveryTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.org.aion.zero.impl.valid in modAionImpl" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.BlockchainDataRecoveryTest.testRecoverWorldStateWithRevert" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.BlockchainPruningTest.testPruningAfterFork" />
+    <list size="16">
+      <item index="0" class="java.lang.String" itemvalue="Application.Aion-jmc" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Aion" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Aion -p" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Aion -c" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Aion -d" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Aion -archive" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Aion -r" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Aion -r val" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.All Tests" />
+      <item index="9" class="java.lang.String" itemvalue="JUnit.DB Tests" />
+      <item index="10" class="java.lang.String" itemvalue="JUnit.Mcf Tests" />
+      <item index="11" class="java.lang.String" itemvalue="JUnit.BlockStoreConcurrencyTest" />
+      <item index="12" class="java.lang.String" itemvalue="JUnit.BlockInfoTest" />
+      <item index="13" class="java.lang.String" itemvalue="JUnit.DriverBaseTest" />
+      <item index="14" class="java.lang.String" itemvalue="JUnit.org.aion.db in modDbImpl" />
+      <item index="15" class="java.lang.String" itemvalue="JUnit.TrieTestWithRootHashValues" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BlockchainPruningTest.testPruningAfterFork" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.BlockchainDataRecoveryTest.testRecoverWorldStateWithRevert" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.BlockchainDataRecoveryTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.org.aion.zero.impl.valid in modAionImpl" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.All in modAionImpl" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TrieTestWithRootHashValues" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DriverBaseTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.org.aion.db in modDbImpl" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.BlockInfoTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.BlockStoreConcurrencyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -518,79 +896,145 @@
       <workItem from="1520260380450" duration="7860000" />
       <workItem from="1520285392686" duration="106000" />
       <workItem from="1520285518660" duration="241000" />
-      <workItem from="1520285777990" duration="141000" />
+      <workItem from="1520285777990" duration="738000" />
+      <workItem from="1520361320450" duration="18196000" />
+      <workItem from="1520432506028" duration="23089000" />
+      <workItem from="1520460287506" duration="4642000" />
+      <workItem from="1520519466705" duration="256000" />
+      <workItem from="1520523519216" duration="2610000" />
+      <workItem from="1520531533611" duration="13985000" />
+      <workItem from="1520546516174" duration="62000" />
+      <workItem from="1520546595949" duration="4203000" />
+      <workItem from="1520608828398" duration="103000" />
+      <workItem from="1520626205719" duration="611000" />
+      <workItem from="1520947734188" duration="6854000" />
+      <workItem from="1520967054858" duration="1004000" />
+      <workItem from="1520968533525" duration="13924000" />
+      <workItem from="1521034467629" duration="17927000" />
+      <workItem from="1521120729027" duration="10937000" />
+      <workItem from="1521138591818" duration="3923000" />
+      <workItem from="1521142790406" duration="4073000" />
+      <workItem from="1521147649519" duration="3654000" />
+      <workItem from="1521151791866" duration="355000" />
+      <workItem from="1521211191417" duration="17276000" />
+      <workItem from="1521473000983" duration="23273000" />
+      <workItem from="1521557248824" duration="9822000" />
+      <workItem from="1521569911603" duration="166000" />
+      <workItem from="1521570094620" duration="16761000" />
+      <workItem from="1521588009175" duration="675000" />
+      <workItem from="1521638069846" duration="506000" />
+      <workItem from="1521639004009" duration="18275000" />
+      <workItem from="1521671922013" duration="2128000" />
+      <workItem from="1521725506703" duration="47000" />
+      <workItem from="1521731276180" duration="22291000" />
+      <workItem from="1521810999521" duration="14128000" />
+      <workItem from="1521829496054" duration="11680000" />
+      <workItem from="1521845007370" duration="338000" />
+      <workItem from="1522243692753" duration="6876000" />
+      <workItem from="1522252657393" duration="21728000" />
+      <workItem from="1522278428826" duration="8000" />
+      <workItem from="1522278688837" duration="84000" />
+      <workItem from="1522329447104" duration="19631000" />
+      <workItem from="1522362514545" duration="3000" />
+      <workItem from="1522371795367" duration="793000" />
+      <workItem from="1522416497617" duration="1305000" />
+      <workItem from="1522422969931" duration="3809000" />
+      <workItem from="1522435638446" duration="4014000" />
+      <workItem from="1522449730306" duration="1066000" />
+      <workItem from="1522457770115" duration="206000" />
+      <workItem from="1522522085360" duration="5109000" />
+      <workItem from="1522529368144" duration="3451000" />
+      <workItem from="1522533491144" duration="2420000" />
+      <workItem from="1522544646604" duration="58000" />
+      <workItem from="1522677820431" duration="600000" />
+      <workItem from="1522680134150" duration="3707000" />
+      <workItem from="1522685095954" duration="6392000" />
+      <workItem from="1522696284991" duration="14554000" />
+      <workItem from="1522762049396" duration="28081000" />
+      <workItem from="1522795971121" duration="39000" />
+      <workItem from="1522796254124" duration="13725000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BlockchainDataRecoveryTest - 2018.02.28 at 12h 37m 11s.xml">
-      <configuration name="BlockchainDataRecoveryTest" configurationId="JUnit" />
+    <history-entry file="DB_Tests - 2018.04.04 at 11h 48m 14s.xml">
+      <configuration name="DB Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlockchainDataRecoveryTest_testRecoverWorldStateWithRevert - 2018.02.28 at 17h 14m 31s.xml">
-      <configuration name="BlockchainDataRecoveryTest.testRecoverWorldStateWithRevert" configurationId="JUnit" />
+    <history-entry file="DB_Tests - 2018.04.04 at 11h 48m 25s.xml">
+      <configuration name="DB Tests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlockchainDataRecoveryTest_testRecoverWorldStateWithRevert - 2018.02.28 at 17h 15m 01s.xml">
-      <configuration name="BlockchainDataRecoveryTest.testRecoverWorldStateWithRevert" configurationId="JUnit" />
+    <history-entry file="DriverBaseTest - 2018.03.28 at 14h 40m 52s.xml">
+      <configuration name="DriverBaseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlockchainDataRecoveryTest_testRecoverWorldStateWithRevert - 2018.02.28 at 17h 19m 04s.xml">
-      <configuration name="BlockchainDataRecoveryTest.testRecoverWorldStateWithRevert" configurationId="JUnit" />
+    <history-entry file="DriverBaseTest - 2018.03.28 at 14h 40m 53s.xml">
+      <configuration name="DriverBaseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlockchainPruningTest_testPruningAfterFork - 2018.02.28 at 17h 36m 22s.xml">
-      <configuration name="BlockchainPruningTest.testPruningAfterFork" configurationId="JUnit" />
+    <history-entry file="DriverBaseTest - 2018.03.28 at 14h 43m 07s.xml">
+      <configuration name="DriverBaseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BlockchainPruningTest_testPruningAfterFork - 2018.02.28 at 17h 53m 51s.xml">
-      <configuration name="BlockchainPruningTest.testPruningAfterFork" configurationId="JUnit" />
+    <history-entry file="DriverBaseTest - 2018.03.28 at 14h 47m 55s.xml">
+      <configuration name="DriverBaseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DriverBenchmarkTest - 2018.02.27 at 09h 20m 01s.xml">
-      <configuration name="DriverBenchmarkTest" configurationId="JUnit" />
+    <history-entry file="DriverBaseTest - 2018.03.28 at 14h 51m 51s.xml">
+      <configuration name="DriverBaseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DriverBenchmarkTest - 2018.02.27 at 09h 23m 52s.xml">
-      <configuration name="DriverBenchmarkTest" configurationId="JUnit" />
+    <history-entry file="DriverBaseTest - 2018.03.28 at 14h 53m 45s.xml">
+      <configuration name="DriverBaseTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DriverBenchmarkTest - 2018.02.27 at 09h 25m 54s.xml">
-      <configuration name="DriverBenchmarkTest" configurationId="JUnit" />
+    <history-entry file="TrieTestWithRootHashValues - 2018.03.29 at 13h 28m 12s.xml">
+      <configuration name="TrieTestWithRootHashValues" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="org_aion_zero_impl_valid_in_modAionImpl - 2018.02.28 at 12h 32m 19s.xml">
-      <configuration name="org.aion.zero.impl.valid in modAionImpl" configurationId="JUnit" />
+    <history-entry file="TrieTestWithRootHashValues - 2018.03.29 at 13h 29m 07s.xml">
+      <configuration name="TrieTestWithRootHashValues" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70813000" />
+    <option name="totallyTimeSpent" value="476843000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="91" y="27" width="1875" height="2133" extended-state="4" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934442" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39968815" sideWeight="0.5014917" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5691987" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4693028" sideWeight="0.4990507" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4578564" sideWeight="0.5035852" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980743" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3585218" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33441824" sideWeight="0.496572" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41092113" sideWeight="0.496572" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991684" sideWeight="0.49850827" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39906347" sideWeight="0.49850827" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882413" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46409988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47710717" sideWeight="0.49641478" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27247655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48491156" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984003" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5608741" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33425263" sideWeight="0.503428" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -602,23 +1046,25 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5608741" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33441824" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37506893" sideWeight="0.496572" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39968815" sideWeight="0.49850827" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39906347" sideWeight="0.49850827" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934442" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46205822" sideWeight="0.4990507" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3479794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45369408" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33425263" sideWeight="0.503428" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.4990507" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16490372" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32882413" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -635,466 +1081,649 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionBlockchainImpl.java</url>
-          <line>757</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/modBoot/src/org/aion/Aion.java</url>
-          <line>53</line>
+          <line>55</line>
           <properties />
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modMcf/test/org/aion/mcf/ds/DataSourceArrayTest.java</url>
+          <line>327</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modMcf/test/org/aion/mcf/ds/DataSourceArrayTest.java</url>
+          <line>218</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionBlockStore.java</url>
+          <line>133</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/blockchain/AionPendingStateImpl.java</url>
+          <line>749</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="db instanceof DatabaseWithCache " language="JAVA" />
+          <url>file://$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/DriverBaseTest.java</url>
+          <line>224</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionBlockStore.java</url>
+          <line>189</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/Cache.java</url>
+          <line>218</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/Cache.java</url>
+          <line>244</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionBlockchainImpl.java</url>
+          <line>971</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionBlockchainImpl.java</url>
+          <line>501</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="keyValueDataSource == null" language="JAVA" />
+          <url>file://$PROJECT_DIR$/modAion/src/org/aion/zero/db/AionContractDetailsImpl.java</url>
+          <line>308</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/TrieImpl.java</url>
+          <line>606</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/TrieImpl.java</url>
+          <line>611</line>
+          <properties />
+          <option name="timeStamp" value="166" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionBlockchainImpl.java</url>
           <line>475</line>
           <properties />
-          <option name="timeStamp" value="11" />
+          <option name="timeStamp" value="167" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionBlockchainImpl.java</url>
-          <line>427</line>
+          <line>548</line>
           <properties />
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="168" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionRepositoryImpl.java</url>
-          <line>246</line>
+          <url>file://$PROJECT_DIR$/modEvtMgrImpl/src/org/aion/evtmgr/impl/evt/EventConsensus.java</url>
+          <line>82</line>
           <properties />
-          <option name="timeStamp" value="25" />
+          <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionRepositoryImpl.java</url>
-          <line>407</line>
+          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/blockchain/AionImpl.java</url>
+          <line>93</line>
           <properties />
-          <option name="timeStamp" value="26" />
+          <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionRepositoryImpl.java</url>
-          <line>366</line>
+          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/pow/AionPoW.java</url>
+          <line>232</line>
           <properties />
-          <option name="timeStamp" value="27" />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/pow/AionPoW.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/pow/AionPoW.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="firstBlock == 506899" language="JAVA" />
+          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionBlockStore.java</url>
+          <line>646</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modBoot/src/org/aion/Aion.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="181" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionBlockStore.java</url>
-          <line>323</line>
-          <properties class="org.aion.zero.impl.db.AionBlockStore" method="reBranch">
+          <url>file://$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/DatabaseFactoryTest.java</url>
+          <line>287</line>
+          <properties class="org.aion.db.impl.DatabaseFactoryTest" method="testDriverRandomClassReturnNull">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="28" />
+      <option name="time" value="182" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="levelBlocks" language="JAVA" />
+        <watch expression="getBlockByHash(bi.getHash()).getHash()" language="JAVA" />
+        <watch expression="bi.getHash()" language="JAVA" />
+        <watch expression="Arrays.equals(bi.getHash(), getBlockByHash(bi.getHash()).getHash())" language="JAVA" />
+        <watch expression="val.get()" language="JAVA" />
+        <watch expression="val.map(serializer::deserialize).orElse(null)" language="JAVA" />
+        <watch expression="((AionBlock) v).getHash()" language="JAVA" custom="org.aion.zero.impl.types.AionBlock" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>firstBlock == 506899</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>keyValueDataSource == null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>db instanceof DatabaseWithCache</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>db instanceof DatabaseWithCache || db instanceof LockedDatabase</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>db instanceof LockedDatabase || db instanceof DatabaseWithCache</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>db instanceof LockedDatabase</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>levelBlocks == null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>((AionBlock) v).getHash()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.aion.zero.impl.types.AionBlock</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>val.map(serializer::deserialize).orElse(null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>val.get()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Arrays.equals(bi.getHash(), getBlockByHash(bi.getHash()).getHash())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bi.getHash()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getBlockByHash(bi.getHash()).getHash()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getBlockByHash(bi.getHash())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>levelBlocks</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getCache().get(val.asBytes())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>val</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/valid/ParentBlockHeaderValidator.java">
+    <entry file="file://$PROJECT_DIR$/modEvtMgr/src/org/aion/evtmgr/IHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="38" column="68" lean-forward="false" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="68" />
+        <state relative-caret-position="681">
+          <caret line="72" column="14" lean-forward="false" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/valid/TimeStampRule.java">
+    <entry file="file://$PROJECT_DIR$/modEvtMgrImpl/src/org/aion/evtmgr/impl/mgr/EventMgrA0.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="34" column="79" lean-forward="false" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+        <state relative-caret-position="694">
+          <caret line="159" column="20" lean-forward="false" selection-start-line="159" selection-start-column="20" selection-end-line="159" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/valid/DependentBlockHeaderRule.java">
+    <entry file="file://$PROJECT_DIR$/modEvtMgr/src/org/aion/evtmgr/IEventMgr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="31" />
+        <state relative-caret-position="260">
+          <caret line="35" column="15" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modMcf/test/org/aion/valid/TimeStampRuleTest.java">
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/pow/AionPoW.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1540">
-          <caret line="77" column="56" lean-forward="false" selection-start-line="77" selection-start-column="56" selection-end-line="77" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modMcf/test/org/aion/valid/BlockNumberRuleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="42" column="22" lean-forward="false" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modMcf/test/org/aion/trie/TrieTestWithRootHashValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-580">
-          <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/jdk-9.0.1/lib/src.zip!/java.base/jdk/internal/misc/Unsafe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="2274" column="23" lean-forward="false" selection-start-line="2274" selection-start-column="23" selection-end-line="2274" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/test/org/aion/EquihashSolutionsGenerationTest210_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionBase/src/org/aion/base/util/NativeLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="48" column="3" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/cli/Cli.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1796">
-          <caret line="342" column="35" lean-forward="false" selection-start-line="342" selection-start-column="35" selection-end-line="342" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/db/AbstractPowBlockstore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/db/IBlockStorePow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/db/IBlockStoreBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/core/IAionBlockchain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="55" column="25" lean-forward="false" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/ds/DataSourceArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modBoot/src/org/aion/Aion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        <state relative-caret-position="471">
+          <caret line="232" column="63" lean-forward="true" selection-start-line="232" selection-start-column="63" selection-end-line="232" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/StandaloneBlockchain.java">
+    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/core/IBlockchain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="52" column="59" lean-forward="false" selection-start-line="52" selection-start-column="59" selection-end-line="52" selection-end-column="59" />
+        <state relative-caret-position="320">
+          <caret line="53" column="22" lean-forward="false" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionBlockLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="56" column="45" lean-forward="false" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/blockchain/AionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="118" column="65" lean-forward="false" selection-start-line="118" selection-start-column="65" selection-end-line="118" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/sync/handler/BroadcastNewBlockHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="78" column="81" lean-forward="false" selection-start-line="78" selection-start-column="81" selection-end-line="78" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/valid/BlockHeaderValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-9.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="4562" column="22" lean-forward="false" selection-start-line="4562" selection-start-column="22" selection-end-line="4562" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionBase/src/org/aion/base/util/ByteArrayWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="54" column="37" lean-forward="false" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/sync/handler/BlockPropagationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="113" column="45" lean-forward="true" selection-start-line="113" selection-start-column="45" selection-end-line="113" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/mod/modCrypto.jar!/org/aion/crypto/HashUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="34" column="25" lean-forward="false" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modAion/src/org/aion/zero/types/A0BlockHeader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="-49">
+          <caret line="250" column="18" lean-forward="false" selection-start-line="250" selection-start-column="18" selection-end-line="250" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/types/AbstractBlockHeader.java">
+    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/types/AbstractBlock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="187" column="0" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/types/AionBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/RecoveryUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1099">
-          <caret line="96" column="17" lean-forward="false" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/test/org/aion/zero/impl/BlockchainForkingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="51" column="3" lean-forward="false" selection-start-line="51" selection-start-column="3" selection-end-line="137" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/test/org/aion/zero/impl/BlockchainDataRecoveryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/test/org/aion/zero/impl/BlockchainPruningTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/blockchain/AionPendingStateImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="69" column="13" lean-forward="false" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/ConcurrencyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="58" column="13" lean-forward="false" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionBase/src/org/aion/base/db/Flushable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="36" column="17" lean-forward="false" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionBlockchainImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1491">
-          <caret line="415" column="0" lean-forward="false" selection-start-line="415" selection-start-column="0" selection-end-line="415" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-86">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/sync/SyncMgr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="939">
-          <caret line="327" column="0" lean-forward="false" selection-start-line="327" selection-start-column="0" selection-end-line="327" selection-end-column="0" />
+        <state relative-caret-position="551">
+          <caret line="292" column="58" lean-forward="false" selection-start-line="292" selection-start-column="58" selection-end-line="292" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modAionBase/src/org/aion/base/db/IRepository.java">
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/types/AionBlock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1720">
-          <caret line="121" column="1" lean-forward="false" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+        <state relative-caret-position="3140">
+          <caret line="393" column="28" lean-forward="false" selection-start-line="393" selection-start-column="28" selection-end-line="393" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionBlockStore.java">
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/StandaloneBlockchain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-794">
-          <caret line="396" column="25" lean-forward="false" selection-start-line="396" selection-start-column="25" selection-end-line="396" selection-end-column="25" />
+        <state relative-caret-position="1081">
+          <caret line="421" column="66" lean-forward="false" selection-start-line="421" selection-start-column="66" selection-end-line="421" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionImpl/test/org/aion/zero/impl/db/BlockInfoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="60" column="59" lean-forward="false" selection-start-line="60" selection-start-column="59" selection-end-line="60" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-9.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="244" column="18" lean-forward="false" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/db/AbstractPowBlockstore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="46" column="26" lean-forward="false" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/ds/DataSourceArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="55" column="16" lean-forward="false" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/db/TransactionStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="74" column="19" lean-forward="false" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/leveldbjni-all-1.18.3.jar!/org/fusesource/leveldbjni/internal/JniDB.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionBlockchainImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="475" column="0" lean-forward="false" selection-start-line="475" selection-start-column="0" selection-end-line="475" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/ds/ObjectDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="54" column="42" lean-forward="false" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/utils/ThreadDumper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="33" column="25" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modEvtMgrImpl/src/org/aion/evtmgr/impl/evt/EventConsensus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding>
-            <element signature="e#6697#6698#0" expanded="true" />
-            <element signature="e#6744#6745#0" expanded="true" />
-            <element signature="e#15043#15044#0" expanded="true" />
-            <element signature="e#15078#15079#0" expanded="true" />
-            <element signature="e#15122#15123#0" expanded="true" />
-            <element signature="e#15162#15163#0" expanded="true" />
-            <element signature="e#15211#15212#0" expanded="true" />
-            <element signature="e#15256#15257#0" expanded="true" />
-            <element signature="e#15324#15325#0" expanded="true" />
-            <element signature="e#15384#15385#0" expanded="true" />
-            <element signature="e#15424#15425#0" expanded="true" />
-            <element signature="e#15464#15465#0" expanded="true" />
-            <element signature="e#15519#15520#0" expanded="true" />
-            <element signature="e#15569#15570#0" expanded="true" />
+            <element signature="e#2419#2420#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modAion/src/org/aion/zero/db/AionRepositoryCache.java">
+    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/config/CfgDb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="939">
-          <caret line="143" column="45" lean-forward="false" selection-start-line="143" selection-start-column="45" selection-end-line="143" selection-end-column="45" />
+        <state relative-caret-position="320">
+          <caret line="50" column="49" lean-forward="true" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/leveldb/LevelDBWithCache.java">
+    <entry file="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/DBVendor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/AbstractDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="196" column="1" lean-forward="true" selection-start-line="196" selection-start-column="1" selection-end-line="196" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/leveldb/LevelDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="334" column="58" lean-forward="false" selection-start-line="334" selection-start-column="58" selection-end-line="334" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/DatabaseTestUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="83" column="31" lean-forward="false" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionBase/src/org/aion/base/db/IByteArrayKeyValueStore.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="38" column="59" lean-forward="false" selection-start-line="38" selection-start-column="59" selection-end-line="38" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/db/AbstractRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="70" column="16" lean-forward="false" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/Trie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/trie/TrieImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
-          <caret line="85" column="13" lean-forward="false" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+        <state relative-caret-position="748">
+          <caret line="750" column="9" lean-forward="false" selection-start-line="750" selection-start-column="9" selection-end-line="750" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/AbstractDatabaseWithCache.java">
+    <entry file="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/generic/SpecialLockedDatabase.java" />
+    <entry file="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/generic/LockedDatabase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="138" column="44" lean-forward="false" selection-start-line="138" selection-start-column="44" selection-end-line="138" selection-end-column="44" />
+        <state relative-caret-position="540">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <marker date="1522856660296" expanded="true" signature="7625:7631" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionRepositoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="366" column="12" lean-forward="false" selection-start-line="366" selection-start-column="12" selection-end-line="366" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#5389#5390#0" expanded="false" />
-            <element signature="e#5481#5482#0" expanded="false" />
-            <element signature="e#10505#10506#0" expanded="false" />
-            <element signature="e#10562#10563#0" expanded="false" />
-            <element signature="e#10623#10624#0" expanded="false" />
-            <element signature="e#10674#10675#0" expanded="false" />
-            <element signature="e#10986#10987#0" expanded="false" />
-            <element signature="e#11038#11039#0" expanded="false" />
-            <element signature="e#14562#14563#0" expanded="false" />
-            <element signature="e#14625#14626#0" expanded="false" />
-            <element signature="e#15273#15274#0" expanded="false" />
-            <element signature="e#15328#15329#0" expanded="false" />
-            <element signature="e#16120#16121#0" expanded="false" />
-            <element signature="e#16167#16168#0" expanded="false" />
-            <element signature="e#16220#16221#0" expanded="false" />
-            <element signature="e#16260#16261#0" expanded="false" />
-            <element signature="e#16320#16321#0" expanded="false" />
-            <element signature="e#16374#16375#0" expanded="false" />
-            <element signature="e#17587#17588#0" expanded="false" />
-            <element signature="e#17620#17621#0" expanded="false" />
-            <element signature="e#21535#21536#0" expanded="false" />
-            <element signature="e#21576#21577#0" expanded="false" />
-            <element signature="e#22023#22024#0" expanded="false" />
-            <element signature="e#22066#22067#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modP2pImpl/src/org/aion/p2p/impl/TaskUPnPManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modCrypto/test/org/aion/crypto/ECKeyBench.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modCrypto/test/org/aion/crypto/HashTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modCrypto/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionGenesis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modApiServer/src/org/aion/api/server/types/CompiContrInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modApiServer/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="54" column="49" lean-forward="false" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modApiServer/module-info.java">
+    <entry file="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/generic/DatabaseWithCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="20">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1522855834744" expanded="true" signature="14910:14917" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/rocksdb/RocksDBWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modDbImpl/src/org/aion/db/impl/DatabaseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1534">
+          <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+          <folding>
+            <element signature="e#9551#9552#0" expanded="true" />
+            <element signature="e#9593#9594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modBoot/src/org/aion/Aion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="52" column="13" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+          <folding>
+            <marker date="1522864365699" expanded="true" signature="2142:7109" ph="{...}" />
+            <marker date="1522864365699" expanded="true" signature="4481:4534" ph="{...}" />
+            <marker date="1522864365699" expanded="true" signature="5186:5625" ph="{...}" />
+            <marker date="1522864365699" expanded="true" signature="5461:5615" ph="{...}" />
+            <marker date="1522864365699" expanded="true" signature="5799:7088" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/AionBlockStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="689" column="21" lean-forward="false" selection-start-line="689" selection-start-column="21" selection-end-line="689" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/db/AbstractRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="894">
+          <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modDbImpl/test/org/aion/db/impl/DatabaseFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="130" column="74" lean-forward="false" selection-start-line="130" selection-start-column="74" selection-end-line="130" selection-end-column="74" />
+          <folding>
+            <marker date="1522865782801" expanded="true" signature="14892:15613" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/utils/TaskDumpThreadsAndBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="71" column="16" lean-forward="false" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/cli/Cli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="135" column="39" lean-forward="false" selection-start-line="135" selection-start-column="39" selection-end-line="135" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/db/RecoveryUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="123" column="5" lean-forward="false" selection-start-line="123" selection-start-column="5" selection-end-line="123" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/config/CfgNetP2p.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="63" column="16" lean-forward="false" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modMcf/src/org/aion/mcf/config/CfgNet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1049">
+          <caret line="84" column="37" lean-forward="false" selection-start-line="84" selection-start-column="37" selection-end-line="84" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modAionImpl/src/org/aion/zero/impl/AionHub.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aion_fastvm/java/aion_fastvm.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aion_api/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aion_api/src/org/aion/api/cfg/ApiCfg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modAion/test/org/aion/types/AionTransactionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        <state relative-caret-position="1078">
+          <caret line="163" column="38" lean-forward="true" selection-start-line="163" selection-start-column="38" selection-end-line="163" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -1151,11 +1780,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>modAion</last-edited>
+          <last-edited>modDbImpl</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1175,7 +1805,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>gson-2.7</last-edited>
+          <last-edited>rocksdbjni-5.11.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

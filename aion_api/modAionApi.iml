@@ -15,9 +15,12 @@
     <orderEntry type="library" name="logback" level="project" />
     <orderEntry type="library" scope="TEST" name="junit" level="project" />
     <orderEntry type="library" scope="TEST" name="hamcrest" level="project" />
-    <orderEntry type="module" module-name="modAionBase" />
-    <orderEntry type="module" module-name="modCrypto" />
-    <orderEntry type="module" module-name="modRlp" />
     <orderEntry type="library" name="gson-2.7" level="project" />
+    <orderEntry type="library" name="modCrypto" level="project" />
+    <orderEntry type="module" module-name="modAionBase" />
+    <orderEntry type="module" module-name="modRlp" />
+    <orderEntry type="module" module-name="modApiServer" />
+    <orderEntry type="module" module-name="modAionImpl" />
+    <orderEntry type="module" module-name="modLogger" />
   </component>
 </module>
