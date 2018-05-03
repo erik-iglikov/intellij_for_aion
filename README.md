@@ -8,7 +8,7 @@ Next, clone this project into a separate folder.
 
 Then run the commands:
 ```
-rm -fr intellij_for_aion/.git intellij_for_aion/README.md
+rm -fr intellij_for_aion/.git intellij_for_aion/README.md intellij_for_aion/UpdateScript.sh
 rsync -rv intellij_for_aion/ aion/
 ```
 where `aion` contains the code base and `intellij_for_aion` contains the IDE support files.

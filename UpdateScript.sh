@@ -1,5 +1,3 @@
-aion
-
 rsync -rv ../dev_aion/.idea/ ../intellij_for_aion/.idea/
 cp ../dev_aion/aion_fastvm/modFastVM/modFastVM.iml ../intellij_for_aion/aion_fastvm/modFastVM/modFastVM.iml
 cp ../dev_aion/aion_api/modAionApi.iml ../intellij_for_aion/aion_api/modAionApi.iml
