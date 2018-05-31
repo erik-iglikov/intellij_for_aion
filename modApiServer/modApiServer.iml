@@ -25,8 +25,11 @@
     <orderEntry type="module" module-name="modEvtMgr" />
     <orderEntry type="module" module-name="modEvtMgrImpl" />
     <orderEntry type="module" module-name="modAionApi" />
-    <orderEntry type="library" name="modFastVM" level="project" />
     <orderEntry type="library" name="modCrypto" level="project" />
     <orderEntry type="library" name="nanohttpd-2.3.1-with-deps" level="project" />
+    <orderEntry type="library" name="guava" level="project" />
+    <orderEntry type="module" module-name="modFastVM" />
+    <orderEntry type="module" module-name="modRlp" />
+    <orderEntry type="library" name="modApiServer" level="project" />
   </component>
 </module>
