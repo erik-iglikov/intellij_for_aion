@@ -17,3 +17,4 @@ cp ../dev_aion/modP2p/modP2p.iml ../intellij_for_aion/modP2p/modP2p.iml
 cp ../dev_aion/modRlp/modRlp.iml ../intellij_for_aion/modRlp/modRlp.iml
 cp ../dev_aion/modTxPoolImpl/modTxPoolImpl.iml ../intellij_for_aion/modTxPoolImpl/modTxPoolImpl.iml
 cp ../dev_aion/modTxPool/modTxPool.iml ../intellij_for_aion/modTxPool/modTxPool.iml
+cp ../dev_aion/tutorials/tutorials.iml ../intellij_for_aion/tutorials/tutorials.iml
