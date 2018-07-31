@@ -22,6 +22,6 @@
     <orderEntry type="module" module-name="modAionImpl" />
     <orderEntry type="library" name="testfx-core-4.0.13-alpha" level="project" />
     <orderEntry type="library" name="commons" level="project" />
-    <orderEntry type="library" name="richtextfx-0.9.0" level="project" />
+    <orderEntry type="library" name="openjfx-monocle-jdk-9+181" level="project" />
   </component>
 </module>

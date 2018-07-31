@@ -19,3 +19,4 @@ cp ../dev_aion/modTxPoolImpl/modTxPoolImpl.iml ../intellij_for_aion/modTxPoolImp
 cp ../dev_aion/modTxPool/modTxPool.iml ../intellij_for_aion/modTxPool/modTxPool.iml
 cp ../dev_aion/modPrecompiled/modPrecompiled.iml ../intellij_for_aion/modPrecompiled/modPrecompiled.iml
 cp ../dev_aion/modGui/modGui.iml ../intellij_for_aion/modGui/modGui.iml
+cp ../dev_aion/modVM/modVM.iml ../intellij_for_aion/modVM/modVM.iml

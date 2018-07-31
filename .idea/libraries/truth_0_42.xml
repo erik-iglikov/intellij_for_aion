@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="truth-0.42">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/truth-0.42.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
