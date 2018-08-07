@@ -1,9 +1,1 @@
-<component name="libraryTable">
-  <library name="modCrypto">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/mod/modCrypto.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
+<component name="libraryTable"><library name="modCrypto"><CLASSES><root url="jar://$PROJECT_DIR$/mod/modCrypto.jar!/" /></CLASSES><JAVADOC /><SOURCES /></library></component>

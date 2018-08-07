@@ -8,5 +8,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="modEvtMgrImpl"/>
+    <orderEntry type="module" module-name="modEvtMgr"/>
+    <orderEntry type="module" module-name="modLogger"/>
+    <orderEntry type="library" name="commons_collections4_4_0" level="project" />
+    <orderEntry type="library" scope="TEST" name="hamcrest_all_1_3" level="project" />
+    <orderEntry type="library" scope="TEST" name="junit_4_12" level="project" />
+    <orderEntry type="library" name="logback_classic_1_2_3" level="project" />
+    <orderEntry type="library" name="logback_core_1_2_3" level="project" />
+    <orderEntry type="library" name="slf4j_api_1_7_25" level="project" />
   </component>
 </module>

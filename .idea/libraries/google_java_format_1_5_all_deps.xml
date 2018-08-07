@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="google_java_format_1_5_all_deps">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/google-java-format-1.5-all-deps.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

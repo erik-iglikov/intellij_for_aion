@@ -9,14 +9,20 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="modAionBase" />
-    <orderEntry type="module" module-name="modRlp" />
-    <orderEntry type="module" module-name="modMcf" />
-    <orderEntry type="library" name="slf4j-api" level="project" />
+    <orderEntry type="module" module-name="modAionBase"/>
+    <orderEntry type="module" module-name="modAion"/>
+    <orderEntry type="module" module-name="modCrypto"/>
+    <orderEntry type="module" module-name="modLogger"/>
+    <orderEntry type="module" module-name="modMcf"/>
+    <orderEntry type="module" module-name="modRlp"/>
+    <orderEntry type="library" name="commons_collections4_4_0" level="project" />
+    <orderEntry type="library" name="commons_lang3_3_4" level="project" />
+    <orderEntry type="library" name="hamcrest_all_1_3" level="project" />
+    <orderEntry type="library" name="junit_4_12" level="project" />
     <orderEntry type="library" name="libJson" level="project" />
-    <orderEntry type="library" scope="TEST" name="junit" level="project" />
-    <orderEntry type="library" name="commons" level="project" />
-    <orderEntry type="library" name="modCrypto" level="project" />
-    <orderEntry type="library" name="jsr305-3.0.2" level="project" />
+    <orderEntry type="library" name="libnsc" level="project" />
+    <orderEntry type="library" name="logback_classic_1_2_3" level="project" />
+    <orderEntry type="library" name="logback_core_1_2_3" level="project" />
+    <orderEntry type="library" name="slf4j_api_1_7_25" level="project" />
   </component>
 </module>

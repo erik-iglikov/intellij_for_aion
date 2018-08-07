@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="undertow_core_2_0_10_Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/undertow-core-2.0.10.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

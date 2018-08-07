@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="gson-2.7">
+  <library name="gson_2_7">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/aion_api/lib/gson-2.7.jar!/" />
     </CLASSES>

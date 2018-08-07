@@ -1,8 +1,7 @@
 <component name="libraryTable">
-  <library name="testfx-core-4.0.13-alpha">
+  <library name="testfx_core_4_0_13-alpha">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/testfx-core-4.0.13-alpha.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/testfx-junit-4.0.13-alpha.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -9,30 +9,36 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="slf4j-api" level="project" />
-    <orderEntry type="library" name="truth" level="project" />
+    <orderEntry type="module" module-name="modAionBase"/>
+    <orderEntry type="module" module-name="modAionImpl"/>
+    <orderEntry type="module" module-name="modAion"/>
+    <orderEntry type="module" module-name="modCrypto"/>
+    <orderEntry type="module" module-name="modDbImpl"/>
+    <orderEntry type="module" module-name="modEvtMgrImpl"/>
+    <orderEntry type="module" module-name="modEvtMgr"/>
+    <orderEntry type="module" module-name="modFastVM"/>
+    <orderEntry type="module" module-name="modLogger"/>
+    <orderEntry type="module" module-name="modMcf"/>
+    <orderEntry type="module" module-name="modP2pImpl"/>
+    <orderEntry type="module" module-name="modP2p"/>
+    <orderEntry type="module" module-name="modPrecompiled"/>
+    <orderEntry type="module" module-name="modRlp"/>
+    <orderEntry type="module" module-name="modTxPool"/>
+    <orderEntry type="module" module-name="modVM"/>
+    <orderEntry type="library" name="byte_buddy_1_7_9" level="project" />
+    <orderEntry type="library" name="byte_buddy_agent_1_7_9" level="project" />
+    <orderEntry type="library" name="commons_collections4_4_0" level="project" />
+    <orderEntry type="library" name="commons_lang3_3_4" level="project" />
+    <orderEntry type="library" name="guava_19_0" level="project" />
+    <orderEntry type="library" name="hamcrest_all_1_3" level="project" />
+    <orderEntry type="library" name="junit_4_12" level="project" />
     <orderEntry type="library" name="libJson" level="project" />
-    <orderEntry type="library" name="commons" level="project" />
-    <orderEntry type="library" scope="TEST" name="junit" level="project" />
-    <orderEntry type="library" name="mockito" level="project" />
     <orderEntry type="library" name="libnsc" level="project" />
-    <orderEntry type="library" name="JUnitParams" level="project" />
-    <orderEntry type="library" name="guava" level="project" />
-    <orderEntry type="module" module-name="modAionBase" />
-    <orderEntry type="module" module-name="modMcf" />
-    <orderEntry type="module" module-name="modLogger" />
-    <orderEntry type="module" module-name="modDbImpl" />
-    <orderEntry type="module" module-name="modEvtMgr" />
-    <orderEntry type="module" module-name="modEvtMgrImpl" />
-    <orderEntry type="module" module-name="modTxPool" />
-    <orderEntry type="module" module-name="modP2p" />
-    <orderEntry type="module" module-name="modRlp" />
-    <orderEntry type="module" module-name="modAion" />
-    <orderEntry type="module" module-name="modP2pImpl" />
-    <orderEntry type="module" module-name="modApiServer" />
-    <orderEntry type="library" name="modCrypto" level="project" />
-    <orderEntry type="module" module-name="modPrecompiled" />
-    <orderEntry type="module" module-name="modFastVM" />
-    <orderEntry type="module" module-name="modVM" />
+    <orderEntry type="library" name="logback_classic_1_2_3" level="project" />
+    <orderEntry type="library" name="logback_core_1_2_3" level="project" />
+    <orderEntry type="library" name="mockito_core_2_12_0" level="project" />
+    <orderEntry type="library" name="objenesis_2_6" level="project" />
+    <orderEntry type="library" name="slf4j_api_1_7_25" level="project" />
+    <orderEntry type="library" name="truth_0_36" level="project" />
   </component>
 </module>

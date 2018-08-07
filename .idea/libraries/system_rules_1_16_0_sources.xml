@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="system_rules_1_16_0-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/junit_4/system-rules-1.16.0-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

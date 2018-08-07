@@ -23,19 +23,19 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="JUnitParams" level="project" />
-    <orderEntry type="library" name="junit" level="project" />
-    <orderEntry type="library" name="truth" level="project" />
-    <orderEntry type="library" name="slf4j-api" level="project" />
-    <orderEntry type="library" name="guava" level="project" />
-    <orderEntry type="library" name="leveldb" level="project" />
-    <orderEntry type="library" name="h2-mvstore" level="project" />
-    <orderEntry type="library" name="hamcrest" level="project" />
-    <orderEntry type="library" name="logback" level="project" />
     <orderEntry type="module" module-name="modAionBase" />
+    <orderEntry type="module" module-name="modDbImpl" />
     <orderEntry type="module" module-name="modLogger" />
-    <orderEntry type="library" name="rocksdbjni-5.11.3" level="project" />
-    <orderEntry type="library" name="lmdbjava-0.6.0" level="project" />
-    <orderEntry type="library" name="commons" level="project" />
+    <orderEntry type="library" name="guava_19_0" level="project" />
+    <orderEntry type="library" name="h2_mvstore_1_4_196" level="project" />
+    <orderEntry type="library" scope="TEST" name="hamcrest_core_1_3" level="project" />
+    <orderEntry type="library" scope="TEST" name="junit_4_12" level="project" />
+    <orderEntry type="library" scope="TEST" name="JUnitParams_1_1_1" level="project" />
+    <orderEntry type="library" name="leveldbjni_all_1_18_3" level="project" />
+    <orderEntry type="library" name="logback_classic_1_2_3" level="project" />
+    <orderEntry type="library" name="logback_core_1_2_3" level="project" />
+    <orderEntry type="library" name="rocksdbjni_5_11_3" level="project" />
+    <orderEntry type="library" name="slf4j_api_1_7_25" level="project" />
+    <orderEntry type="library" scope="TEST" name="truth_0_36" level="project" />
   </component>
 </module>

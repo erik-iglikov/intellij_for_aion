@@ -9,8 +9,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="TEST" name="junit" level="project" />
-    <orderEntry type="library" scope="TEST" name="hamcrest" level="project" />
     <orderEntry type="module" module-name="modAionBase" />
+    <orderEntry type="module" module-name="modP2p" />
+    <orderEntry type="library" scope="TEST" name="junit_4_12" level="project" />
+    <orderEntry type="library" scope="TEST" name="hamcrest_core_1_3" level="project" />
   </component>
 </module>

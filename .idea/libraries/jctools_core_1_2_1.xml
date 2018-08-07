@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jctools_core_1_2_1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jctools-core-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

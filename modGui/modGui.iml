@@ -11,17 +11,26 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="TEST" name="junit" level="project" />
-    <orderEntry type="library" name="mockito" level="project" />
-    <orderEntry type="library" name="guava" level="project" />
-    <orderEntry type="library" name="slf4j-api" level="project" />
-    <orderEntry type="module" module-name="modLogger" />
-    <orderEntry type="module" module-name="modAionApi" />
-    <orderEntry type="module" module-name="modMcf" />
-    <orderEntry type="library" scope="TEST" name="hamcrest" level="project" />
+    <orderEntry type="module" module-name="modAionBase" />
     <orderEntry type="module" module-name="modAionImpl" />
-    <orderEntry type="library" name="testfx-core-4.0.13-alpha" level="project" />
-    <orderEntry type="library" name="commons" level="project" />
-    <orderEntry type="library" name="openjfx-monocle-jdk-9+181" level="project" />
+    <orderEntry type="module" module-name="modAion" />
+    <orderEntry type="module" module-name="modDbImpl" />
+    <orderEntry type="module" module-name="modGui" />
+    <orderEntry type="module" module-name="modLogger" />
+    <orderEntry type="module" module-name="modMcf" />
+    <orderEntry type="library" name="byte_buddy_1_7_9" level="project" />
+    <orderEntry type="library" name="byte_buddy_agent_1_7_9" level="project" />
+    <orderEntry type="library" name="guava_19_0" level="project" />
+    <orderEntry type="library" scope="TEST" name="hamcrest_all_1_3" level="project" />
+    <orderEntry type="library" scope="TEST" name="junit_4_12" level="project" />
+    <orderEntry type="library" name="logback_classic_1_2_3" level="project" />
+    <orderEntry type="library" name="logback_core_1_2_3" level="project" />
+    <orderEntry type="library" scope="TEST" name="mockito_core_2_12_0" level="project" />
+    <orderEntry type="library" name="objenesis_2_6" level="project" />
+    <orderEntry type="library" name="openjfx_monocle_jdk_9_181" level="project" />
+    <orderEntry type="library" name="protobuf_java_3_5_0" level="project" />
+    <orderEntry type="library" name="slf4j_api_1_7_25" level="project" />
+    <orderEntry type="library" name="testfx_core_4_0_13_alpha" level="project" />
+    <orderEntry type="library" name="testfx_junit_4_0_13_alpha" level="project" />
   </component>
 </module>

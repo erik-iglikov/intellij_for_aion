@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mockito_core_2_12_0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/mockito-core-2.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
