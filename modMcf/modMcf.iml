@@ -20,6 +20,7 @@
     <orderEntry type="module" module-name="modRlp" />
     <orderEntry type="library" name="byte_buddy_1_7_9" level="project" />
     <orderEntry type="library" name="commons_collections4_4_0" level="project" />
+    <orderEntry type="library" name="commons_lang3_3_4" level="project" />
     <orderEntry type="library" name="guava_19_0" level="project" />
     <orderEntry type="library" scope="TEST" name="hamcrest_all_1_3" level="project" />
     <orderEntry type="library" scope="TEST" name="junit_4_12" level="project" />

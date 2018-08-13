@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="mockito_core_2_12_0">
+  <library name="picocli_3_5_1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/mockito-core-2.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/picocli-3.5.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

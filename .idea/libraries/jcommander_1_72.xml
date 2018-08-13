@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="mockito_core_2_12_0">
+  <library name="jcommander-1.72">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/mockito-core-2.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommander-1.72.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
