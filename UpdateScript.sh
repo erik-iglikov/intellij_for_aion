@@ -6,7 +6,7 @@ cp ../dev_aion/modAionImpl/modAionImpl.iml ../intellij_for_aion/modAionImpl/modA
 cp ../dev_aion/modAion/modAion.iml ../intellij_for_aion/modAion/modAion.iml
 cp ../dev_aion/modApiServer/modApiServer.iml ../intellij_for_aion/modApiServer/modApiServer.iml
 cp ../dev_aion/modBoot/modBoot.iml ../intellij_for_aion/modBoot/modBoot.iml
-cp ../dev_aion/modCrypto/modCrypto.iml  modCrypto/modCrypto.iml
+cp ../dev_aion/modCrypto/modCrypto.iml ../intellij_for_aion/modCrypto/modCrypto.iml
 cp ../dev_aion/modDbImpl/modDbImpl.iml ../intellij_for_aion/modDbImpl/modDbImpl.iml
 cp ../dev_aion/modEvtMgrImpl/modEvtMgrImpl.iml ../intellij_for_aion/modEvtMgrImpl/modEvtMgrImpl.iml
 cp ../dev_aion/modEvtMgr/modEvtMgr.iml ../intellij_for_aion/modEvtMgr/modEvtMgr.iml
