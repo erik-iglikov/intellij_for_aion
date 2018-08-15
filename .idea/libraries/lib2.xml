@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libnmapdb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rocksdbjni-5.11.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libnsc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mockito-core-2.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libJson.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/byte-buddy-1.7.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nanohttpd-2.3.1-with-deps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/byte-buddy-agent-1.7.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jctools-core-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/leveldbjni-all-1.18.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/truth-0.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JUnitParams-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netlib-java-0.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/protobuf-java-3.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/h2-mvstore-1.4.196.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/libnzmq.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/objenesis-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/google-java-format-1.5-all-deps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/leveldb-api-0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

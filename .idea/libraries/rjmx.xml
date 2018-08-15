@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rjmx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pack/jdk/lib/missioncontrol/plugins/com.oracle.jmc.rjmx_6.0.0.173920/rjmx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

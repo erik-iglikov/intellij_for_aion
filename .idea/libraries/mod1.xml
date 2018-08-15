@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mod1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aion_api/mod/modAionBase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/aion_api/mod/modCrypto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/aion_api/mod/modLogger.jar!/" />
+      <root url="jar://$PROJECT_DIR$/aion_api/mod/modRlp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

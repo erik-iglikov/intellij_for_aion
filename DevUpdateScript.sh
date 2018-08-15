@@ -1,0 +1,22 @@
+rsync -rv ../intellij_for_aion/.idea/ ../dev_aion/.idea/
+cp ../intellij_for_aion/aion_fastvm/modFastVM/modFastVM.iml ../dev_aion/aion_fastvm/modFastVM/modFastVM.iml
+cp ../intellij_for_aion/aion_api/modAionApi.iml ../dev_aion/aion_api/modAionApi.iml
+cp ../intellij_for_aion/modAionBase/modAionBase.iml ../dev_aion/modAionBase/modAionBase.iml
+cp ../intellij_for_aion/modAionImpl/modAionImpl.iml ../dev_aion/modAionImpl/modAionImpl.iml
+cp ../intellij_for_aion/modAion/modAion.iml ../dev_aion/modAion/modAion.iml
+cp ../intellij_for_aion/modApiServer/modApiServer.iml ../dev_aion/modApiServer/modApiServer.iml
+cp ../intellij_for_aion/modBoot/modBoot.iml ../dev_aion/modBoot/modBoot.iml
+cp ../intellij_for_aion/modCrypto/modCrypto.iml  ../dev_aion/modCrypto/modCrypto.iml
+cp ../intellij_for_aion/modDbImpl/modDbImpl.iml ../dev_aion/modDbImpl/modDbImpl.iml
+cp ../intellij_for_aion/modEvtMgrImpl/modEvtMgrImpl.iml ../dev_aion/modEvtMgrImpl/modEvtMgrImpl.iml
+cp ../intellij_for_aion/modEvtMgr/modEvtMgr.iml ../dev_aion/modEvtMgr/modEvtMgr.iml
+cp ../intellij_for_aion/modLogger/modLogger.iml ../dev_aion/modLogger/modLogger.iml
+cp ../intellij_for_aion/modMcf/modMcf.iml ../dev_aion/modMcf/modMcf.iml
+cp ../intellij_for_aion/modP2pImpl/modP2pImpl.iml ../dev_aion/modP2pImpl/modP2pImpl.iml
+cp ../intellij_for_aion/modP2p/modP2p.iml ../dev_aion/modP2p/modP2p.iml
+cp ../intellij_for_aion/modRlp/modRlp.iml ../dev_aion/modRlp/modRlp.iml
+cp ../intellij_for_aion/modTxPoolImpl/modTxPoolImpl.iml ../dev_aion/modTxPoolImpl/modTxPoolImpl.iml
+cp ../intellij_for_aion/modTxPool/modTxPool.iml ../dev_aion/modTxPool/modTxPool.iml
+cp ../intellij_for_aion/modPrecompiled/modPrecompiled.iml ../dev_aion/modPrecompiled/modPrecompiled.iml
+cp ../intellij_for_aion/modGui/modGui.iml ../dev_aion/modGui/modGui.iml
+cp ../intellij_for_aion/modVM/modVM.iml ../dev_aion/modVM/modVM.iml

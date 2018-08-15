@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="notification_plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pack/jdk/lib/missioncontrol/plugins/com.oracle.jmc.console.ui.notification_6.0.0.173920/notification_plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

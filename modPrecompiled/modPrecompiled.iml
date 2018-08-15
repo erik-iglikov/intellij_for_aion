@@ -9,23 +9,22 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="modAionApi"/>
-    <orderEntry type="module" module-name="modAionBase"/>
-    <orderEntry type="module" module-name="modAionImpl"/>
-    <orderEntry type="module" module-name="modAion"/>
-    <orderEntry type="module" module-name="modCrypto"/>
-    <orderEntry type="module" module-name="modDbImpl"/>
-    <orderEntry type="module" module-name="modEvtMgr"/>
-    <orderEntry type="module" module-name="modFastVM"/>
-    <orderEntry type="module" module-name="modLogger"/>
-    <orderEntry type="module" module-name="modMcf"/>
-    <orderEntry type="module" module-name="modPrecompiled"/>
-    <orderEntry type="module" module-name="modRlp"/>
-    <orderEntry type="module" module-name="modVM"/>
+    <orderEntry type="module" module-name="modAionApi" />
+    <orderEntry type="module" module-name="modAionBase" />
+    <orderEntry type="module" module-name="modAionImpl" />
+    <orderEntry type="module" module-name="modAion" />
+    <orderEntry type="module" module-name="modCrypto" />
+    <orderEntry type="module" module-name="modDbImpl" />
+    <orderEntry type="module" module-name="modEvtMgr" />
+    <orderEntry type="module" module-name="modFastVM" />
+    <orderEntry type="module" module-name="modLogger" />
+    <orderEntry type="module" module-name="modMcf" />
+    <orderEntry type="module" module-name="modPrecompiled" />
+    <orderEntry type="module" module-name="modRlp" />
+    <orderEntry type="module" module-name="modVM" />
     <orderEntry type="library" name="commons_codec_1_10" level="project" />
     <orderEntry type="library" name="commons_collections4_4_0" level="project" />
     <orderEntry type="library" name="commons_lang3_3_4" level="project" />
-    <orderEntry type="library" name="guava_19_0" level="project" />
     <orderEntry type="library" scope="TEST" name="hamcrest_all_1_3" level="project" />
     <orderEntry type="library" name="jsr305_3_0_2" level="project" />
     <orderEntry type="library" scope="TEST" name="junit_4_12" level="project" />
@@ -34,6 +33,8 @@
     <orderEntry type="library" name="logback_classic_1_2_3" level="project" />
     <orderEntry type="library" name="logback_core_1_2_3" level="project" />
     <orderEntry type="library" name="slf4j_api_1_7_25" level="project" />
-    <orderEntry type="library" scope="TEST" name="truth_0_36" level="project" />
+    <orderEntry type="library" name="diffutils_1_3_0" level="project" />
+    <orderEntry type="library" name="guava_25_1_jre" level="project" />
+    <orderEntry type="library" name="truth_0_42" level="project" />
   </component>
 </module>

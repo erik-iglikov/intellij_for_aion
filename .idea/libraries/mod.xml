@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="mod">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mod/modRlp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modMcf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modAionBase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modP2p.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modApiServer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modCrypto.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modAion.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modFastVM.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modTxPoolImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modAionImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modLogger.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modP2pImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modEvtMgrImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modDbImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modBoot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modEvtMgr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mod/modTxPool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
