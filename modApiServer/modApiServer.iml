@@ -23,7 +23,6 @@
     <orderEntry type="module" module-name="modP2p" />
     <orderEntry type="library" name="commons_collections4_4_0" level="project" />
     <orderEntry type="library" name="commons_lang3_3_4" level="project" />
-    <orderEntry type="library" name="guava_19_0" level="project" />
     <orderEntry type="library" name="hamcrest_all_1_3" level="project" />
     <orderEntry type="library" name="jboss_logging_3_3_0_Final" level="project" />
     <orderEntry type="library" name="junit_4_12" level="project" />
@@ -37,5 +36,6 @@
     <orderEntry type="library" name="xnio_api_3_3_8_Final" level="project" />
     <orderEntry type="library" name="xnio_nio_3_3_8_Final" level="project" />
     <orderEntry type="module" module-name="modVM" />
+    <orderEntry type="library" name="guava_25_1_jre" level="project" />
   </component>
 </module>

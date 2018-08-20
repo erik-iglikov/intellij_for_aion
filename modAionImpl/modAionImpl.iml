@@ -27,8 +27,6 @@
     <orderEntry type="module" module-name="modTxPool" />
     <orderEntry type="module" module-name="modVM" />
     <orderEntry type="module" module-name="modTxPoolImpl" />
-    <orderEntry type="library" scope="TEST" name="byte_buddy_1_7_9" level="project" />
-    <orderEntry type="library" scope="TEST" name="byte_buddy_agent_1_7_9" level="project" />
     <orderEntry type="library" name="commons_collections4_4_0" level="project" />
     <orderEntry type="library" name="commons_lang3_3_4" level="project" />
     <orderEntry type="library" scope="TEST" name="hamcrest_all_1_3" level="project" />
@@ -37,8 +35,6 @@
     <orderEntry type="library" scope="TEST" name="libnsc" level="project" />
     <orderEntry type="library" scope="TEST" name="logback_classic_1_2_3" level="project" />
     <orderEntry type="library" scope="TEST" name="logback_core_1_2_3" level="project" />
-    <orderEntry type="library" scope="TEST" name="mockito_core_2_12_0" level="project" />
-    <orderEntry type="library" scope="TEST" name="objenesis_2_6" level="project" />
     <orderEntry type="library" name="slf4j_api_1_7_25" level="project" />
     <orderEntry type="library" name="guava_25_1_jre" level="project" />
     <orderEntry type="library" scope="TEST" name="diffutils_1_3_0" level="project" />
@@ -46,5 +42,6 @@
     <orderEntry type="library" scope="TEST" name="JUnitParams_1_1_1" level="project" />
     <orderEntry type="library" name="jcommander-1.72" level="project" />
     <orderEntry type="library" name="picocli_3_5_1" level="project" />
+    <orderEntry type="library" name="mockito-core-2.21.0" level="project" />
   </component>
 </module>

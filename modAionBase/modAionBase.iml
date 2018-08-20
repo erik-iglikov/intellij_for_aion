@@ -13,5 +13,6 @@
     <orderEntry type="library" name="diffutils_1_3_0" level="project" />
     <orderEntry type="library" name="guava_25_1_jre" level="project" />
     <orderEntry type="library" name="truth_0_42" level="project" />
+    <orderEntry type="library" name="JUnitParams_1_1_1" level="project" />
   </component>
 </module>
